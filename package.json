@@ -1,0 +1,16 @@
+{
+  "author": "Joe Donovan <joedonovan@gmail.com>",
+  "name": "yapper",
+  "description": "It's an IM group chat bot. It will log in to Yahoo! IM and relay anything a friend sends to it to all of it's friends.",
+  "version": "0.1.0",
+  "repository": {
+    "url": ""
+  },
+  "main": "./bin/server.js",
+  "engines": {
+    "node": "~0.6.11"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
